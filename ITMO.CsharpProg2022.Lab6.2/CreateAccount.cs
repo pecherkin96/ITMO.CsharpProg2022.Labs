@@ -21,8 +21,6 @@ namespace ITMO.CsharpProg2022.Lab6._1
             {
                 BankAccount created = new BankAccount();
 
-                //long number = BankAccount.NextNumber();
-
             Console.Write("Enter the account balance! : ");
                 decimal balance = decimal.Parse(Console.ReadLine());
 
