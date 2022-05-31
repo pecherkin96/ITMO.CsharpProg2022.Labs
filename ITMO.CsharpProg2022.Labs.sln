@@ -45,6 +45,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITMO.CsharpProg2022.Lab8.2"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITMO.CsharpProg2022.Lab9.1", "ITMO.CsharpProg2022.Lab9.1\ITMO.CsharpProg2022.Lab9.1.csproj", "{349C7988-6276-45A2-B9E5-97EA7B24ED72}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITMO.CsharpProg2022.Lab10.1", "ITMO.CsharpProg2022.Lab10.1\ITMO.CsharpProg2022.Lab10.1.csproj", "{08BBD063-CD8F-41D0-B310-34ECA26929B2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITMO.CsharpProg2022.Lab10.2", "ITMO.CsharpProg2022.Lab10.2\ITMO.CsharpProg2022.Lab10.2.csproj", "{B616C99C-BE3B-41AA-90FA-4DB94CA05F46}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -135,6 +139,14 @@ Global
 		{349C7988-6276-45A2-B9E5-97EA7B24ED72}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{349C7988-6276-45A2-B9E5-97EA7B24ED72}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{349C7988-6276-45A2-B9E5-97EA7B24ED72}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08BBD063-CD8F-41D0-B310-34ECA26929B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08BBD063-CD8F-41D0-B310-34ECA26929B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08BBD063-CD8F-41D0-B310-34ECA26929B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08BBD063-CD8F-41D0-B310-34ECA26929B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B616C99C-BE3B-41AA-90FA-4DB94CA05F46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B616C99C-BE3B-41AA-90FA-4DB94CA05F46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B616C99C-BE3B-41AA-90FA-4DB94CA05F46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B616C99C-BE3B-41AA-90FA-4DB94CA05F46}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
