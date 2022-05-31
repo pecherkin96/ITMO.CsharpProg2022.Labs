@@ -43,6 +43,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITMO.CsharpProg2022.Lab8.1"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITMO.CsharpProg2022.Lab8.2", "ITMO.CsharpProg2022.Lab8.2\ITMO.CsharpProg2022.Lab8.2.csproj", "{690D564B-BA23-4115-B768-5BE64BD15AE4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITMO.CsharpProg2022.Lab9.1", "ITMO.CsharpProg2022.Lab9.1\ITMO.CsharpProg2022.Lab9.1.csproj", "{349C7988-6276-45A2-B9E5-97EA7B24ED72}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -129,6 +131,10 @@ Global
 		{690D564B-BA23-4115-B768-5BE64BD15AE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{690D564B-BA23-4115-B768-5BE64BD15AE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{690D564B-BA23-4115-B768-5BE64BD15AE4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{349C7988-6276-45A2-B9E5-97EA7B24ED72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{349C7988-6276-45A2-B9E5-97EA7B24ED72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{349C7988-6276-45A2-B9E5-97EA7B24ED72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{349C7988-6276-45A2-B9E5-97EA7B24ED72}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
